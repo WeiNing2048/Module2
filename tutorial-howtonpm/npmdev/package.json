@@ -1,0 +1,23 @@
+{
+  "name": "@weny2048/npmdev",
+  "version": "0.9.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:15443/-/user/org.couchdb.user:weny2048"
+  },
+  "devDependencies": {},
+  "description": "Hi my dear",
+  "bugs": {
+    "url": "https://github.com/WeiNing2048/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/WeiNing2048/how-to-npm#readme"
+}
